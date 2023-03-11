@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678497203 source:c:\users\user\documents\daniela\rodrigo\modulo\main.cpp
+	<iostream>
+	<locale.h>
+	"my_math1.h"
+
+1678497271 source:c:\users\user\documents\daniela\rodrigo\modulo\my_math1.cpp
+
+1678497160 c:\users\user\documents\daniela\rodrigo\modulo\my_math1.h
+

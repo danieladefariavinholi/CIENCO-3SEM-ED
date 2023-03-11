@@ -23,7 +23,7 @@ int main()
 {
     setlocale(LC_ALL, "PORTUGUESE");
 
-    int op, id = 1, quant = 0, media = 0, otimo = 0, bom = 0, regular = 0, ruim = 0;
+    float op, id = 1, quant = 0, media = 0, otimo = 0, bom = 0, regular = 0, ruim = 0;
 
     while(id > 0)
     {
