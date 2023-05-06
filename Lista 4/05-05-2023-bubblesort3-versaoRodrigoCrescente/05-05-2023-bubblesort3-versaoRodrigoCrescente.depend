@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683333685 source:c:\users\user\documents\daniela\robson\05-05-2023-bubblesort3-versaorodrigocrescente\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
