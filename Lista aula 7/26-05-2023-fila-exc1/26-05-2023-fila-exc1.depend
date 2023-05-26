@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685144772 source:c:\users\user\documents\daniela\rodrigo\26-05-2023-fila-exc1\main.cpp
+	<iostream>
+	<queue>
+	<locale.h>
+
